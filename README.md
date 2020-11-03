@@ -5,4 +5,6 @@ The data for this project is taken from kaggle(by saketh ramanujan)
 There is more than a pseudo code but less than complete code here. Preprocessing file contains something sort of a prototype which'll have details of how to do things.
 Same goes for Plotting file.
 There are multiple datafiles and each file requires different type of work. 
-Soon all the files will be updated.
+The data provided here contains cleaned files. For someone who is acquiring that data will have two things to do i.e.
+1) Feature Selection
+2) Data Visualization
